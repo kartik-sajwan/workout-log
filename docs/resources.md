@@ -9,6 +9,7 @@ VSCode
 https://code.visualstudio.com/download
 
 
+
 Basics OpenCV
 https://realpython.com/face-recognition-with-python/
 https://realpython.com/face-detection-in-python-using-a-webcam/
