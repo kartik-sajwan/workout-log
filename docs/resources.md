@@ -1,4 +1,4 @@
-#Links to resources  
+# Links to resources  
   
 ## Downloads  
 Python  
@@ -23,4 +23,3 @@ https://github.com/facebookresearch/VideoPose3D
   
 ## Markdown Cheat-Sheet
   https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
