@@ -2,7 +2,7 @@
 Pose detection during workout.  
   
 ## Environment and setup  
-Use the requirements.txt to setup the environment with required packages. Refer to [resources.md](../blob/master/docs/resources.md) for more details.  
+Use the requirements.txt to setup the environment with required packages. Refer to [resources.md](/docs/resources.md) for more details.  
   
   
 ### Initial setup  
