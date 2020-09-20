@@ -130,3 +130,8 @@ dmypy.json
 
 # VScode config
 .vscode/
+
+
+# training and testing
+*.bin
+*.mp4
